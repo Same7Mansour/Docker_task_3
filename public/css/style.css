@@ -1,0 +1,19 @@
+
+body {
+  transition: background 0.3s, color 0.3s;
+}
+.light {
+  background: #f8f9fa;
+  color: #212529;
+}
+.dark {
+  background: #121212;
+  color: #ffffff;
+}
+.table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+.card {
+  border-radius: 15px;
+}
